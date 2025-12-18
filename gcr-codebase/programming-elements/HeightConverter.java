@@ -13,5 +13,6 @@ class HeightConverter {
 
         System.out.println("Your Height in cm is " + heightCm +
                 " while in feet is " + feet + " and inches is " + inches);
+        sc.close();
     }
 }

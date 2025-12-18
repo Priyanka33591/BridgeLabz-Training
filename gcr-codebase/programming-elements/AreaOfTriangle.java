@@ -15,5 +15,6 @@ class AreaOfTriangle {
 
         System.out.println("Area in square inches is " + areaInches +
                 " and in square centimeters is " + areaCm);
+        sc.close();
     }
 }
