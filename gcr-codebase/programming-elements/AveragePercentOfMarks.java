@@ -4,7 +4,7 @@ public class AveragePercentOfMarks {
         int Physics = 95;
         int Chemistry = 96;
         int totalMarks = Maths + Physics + Chemistry;
-        double averageMarks = (totalMarks / 3.0) * 100;
+        double averageMarks = (totalMarks / 3.0);
         System.out.println("Sam's average marks in PCM is : " + averageMarks);
     }
 }
