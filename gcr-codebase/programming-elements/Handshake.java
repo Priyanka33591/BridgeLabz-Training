@@ -11,5 +11,6 @@ class Handshake {
         int handshakes = (numberOfStudents * (numberOfStudents - 1)) / 2;
 
         System.out.println("Maximum number of handshakes is " + handshakes);
+        sc.close();
     }
 }
