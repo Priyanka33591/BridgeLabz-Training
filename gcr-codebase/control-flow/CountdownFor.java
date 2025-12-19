@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class CountdownFor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int counter = sc.nextInt();
 
-        for (int i = n; i >= 1; i--) {
+        for (int i = counter; i >= 1; i--) {
             System.out.println(i);
         }
         sc.close();
