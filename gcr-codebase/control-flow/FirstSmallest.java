@@ -9,5 +9,6 @@ public class FirstSmallest {
 
         boolean result = (n1 < n2 && n1 < n3);
         System.out.println("Is the first number the smallest? " + result);
+        sc.close();
     }
 }

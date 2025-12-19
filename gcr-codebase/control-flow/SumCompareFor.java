@@ -16,5 +16,6 @@ public class SumCompareFor {
             System.out.println("Formula Result = " + sum1);
             System.out.println("For Loop Result = " + sum2);
         }
+        sc.close();
     }
 }

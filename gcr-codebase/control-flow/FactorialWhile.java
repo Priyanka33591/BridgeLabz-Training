@@ -15,5 +15,6 @@ public class FactorialWhile {
             }
             System.out.println("Factorial = " + fact);
         }
+        sc.close();
     }
 }

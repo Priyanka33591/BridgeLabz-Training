@@ -12,5 +12,6 @@ public class EmployeeBonus {
         } else {
             System.out.println("No Bonus");
         }
+        sc.close();
     }
 }

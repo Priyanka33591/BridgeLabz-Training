@@ -8,5 +8,6 @@ public class Table6to9 {
         for (int i = 6; i <= 9; i++) {
             System.out.println(number + " * " + i + " = " + (number * i));
         }
+        sc.close();
     }
 }

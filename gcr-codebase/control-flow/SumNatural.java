@@ -11,5 +11,6 @@ public class SumNatural {
         } else {
             System.out.println("The number " + n + " is not a natural number");
         }
+        sc.close();
     }
 }

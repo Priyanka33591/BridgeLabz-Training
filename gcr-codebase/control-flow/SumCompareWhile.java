@@ -17,5 +17,6 @@ public class SumCompareWhile {
             System.out.println("Formula Result = " + sum1);
             System.out.println("While Loop Result = " + sum2);
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class SumUntilNegative {
             total += num;
         }
         System.out.println("Total = " + total);
+        sc.close();
     }
 }

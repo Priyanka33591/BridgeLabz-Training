@@ -8,5 +8,6 @@ public class CountdownFor {
         for (int i = n; i >= 1; i--) {
             System.out.println(i);
         }
+        sc.close();
     }
 }

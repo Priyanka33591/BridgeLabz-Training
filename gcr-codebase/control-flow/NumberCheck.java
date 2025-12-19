@@ -11,5 +11,6 @@ public class NumberCheck {
             System.out.println("negative");
         else
             System.out.println("zero");
+        sc.close();
     }
 }
