@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class FactorialWhile {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        int number = sc.nextInt();
 
-        if (n >= 0) {
+        if (number >= 0) {
             long fact = 1;
             int i = 1;
 
-            while (i <= n) {
+            while (i <= number) {
                 fact *= i;
                 i++;
             }
