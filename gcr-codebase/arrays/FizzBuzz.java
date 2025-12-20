@@ -7,6 +7,7 @@ public class FizzBuzz {
 
         if (number <= 0) {
             System.out.println("Invalid input");
+            sc.close(); 
             return;
         }
 
@@ -26,6 +27,7 @@ public class FizzBuzz {
         for (int i = 1; i <= number; i++) {
             System.out.println("Position " + i + " = " + result[i]);
         }
+
         sc.close();
     }
 }
