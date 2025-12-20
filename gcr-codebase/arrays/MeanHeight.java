@@ -15,5 +15,6 @@ public class MeanHeight {
 
         double mean = sum / 11;
         System.out.println("Mean height of football team = " + mean);
+        sc.close();
     }
 }
