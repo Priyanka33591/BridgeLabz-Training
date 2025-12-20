@@ -33,5 +33,6 @@ public class NumberCheck {
             System.out.println("First element is Greater than Last");
         else
             System.out.println("First element is Less than Last");
+        sc.close();
     }
 }
