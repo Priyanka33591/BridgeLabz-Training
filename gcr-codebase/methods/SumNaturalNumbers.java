@@ -15,8 +15,10 @@ public class SumNaturalNumbers {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        if (n <= 0) return;
-
+        if (n <= 0){
+            sc.close();
+            return;
+        }
         int rSum = recursiveSum(n);
         int fSum = formulaSum(n);
 
