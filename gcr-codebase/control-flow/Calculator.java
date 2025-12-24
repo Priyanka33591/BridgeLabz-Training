@@ -40,7 +40,6 @@ public class Calculator {
             default:
                 System.out.println("Invalid Operator");
         }
-
         sc.close();
     }
 }
