@@ -157,26 +157,26 @@ A quick access table for all Java source codes completed till now.
 
 | Program Name | Link |
 |-------------|------|
-| Array2Dto1D | [Open](./Basic-Java-Programs/Array2Dto1D.java) |
-| ArraySum | [Open](./Basic-Java-Programs/ArraySum.java) |
-| BMICalculation | [Open](./Basic-Java-Programs/BMICalculation.java) |
-| BMIMultiDimensional | [Open](./Basic-Java-Programs/BMIMultiDimensional.java) |
-| DigitFrequency | [Open](./Basic-Java-Programs/DigitFrequency.java) |
-| DynamicLargestDigits | [Open](./Basic-Java-Programs/DynamicLargestDigits.java) |
-| EmployeeBonus | [Open](./Basic-Java-Programs/EmployeeBonus.java) |
-| FactorsArray | [Open](./Basic-Java-Programs/FactorsArray.java) |
-| FizzBuzz | [Open](./Basic-Java-Programs/FizzBuzz.java) |
-| FriendsInfo | [Open](./Basic-Java-Programs/FriendsInfo.java) |
-| LargestDigits | [Open](./Basic-Java-Programs/LargestDigits.java) |
-| MeanHeight | [Open](./Basic-Java-Programs/MeanHeight.java) |
-| MultiplicationTable | [Open](./Basic-Java-Programs/MultiplicationTable.java) |
-| NumberCheck | [Open](./Basic-Java-Programs/NumberCheck.java) |
-| OddEvenArray | [Open](./Basic-Java-Programs/OddEvenArray.java) |
-| ReverseNumber | [Open](./Basic-Java-Programs/ReverseNumber.java) |
-| StudentGrade | [Open](./Basic-Java-Programs/StudentGrade.java) |
-| StudentGrade2D | [Open](./Basic-Java-Programs/StudentGrade2D.java) |
-| Table6to9 | [Open](./Basic-Java-Programs/Table6to9.java) |
-| VotingCheck | [Open](./Basic-Java-Programs/VotingCheck.java) |
+| Array2Dto1D | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/Array2Dto1D.java) |
+| ArraySum | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/ArraySum.java) |
+| BMICalculation | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/BMICalculation.java) |
+| BMIMultiDimensional | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/BMIMultiDimensional.java) |
+| DigitFrequency | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/DigitFrequency.java) |
+| DynamicLargestDigits | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/DynamicLargestDigits.java) |
+| EmployeeBonus | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/EmployeeBonus.java) |
+| FactorsArray | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/FactorsArray.java) |
+| FizzBuzz | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/FizzBuzz.java) |
+| FriendsInfo | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/FriendsInfo.java) |
+| LargestDigits | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/LargestDigits.java) |
+| MeanHeight | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/MeanHeight.java) |
+| MultiplicationTable | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/MultiplicationTable.java) |
+| NumberCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/NumberCheck.java) |
+| OddEvenArray | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/OddEvenArray.java) |
+| ReverseNumber | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/ReverseNumber.java) |
+| StudentGrade | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/StudentGrade.java) |
+| StudentGrade2D | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/StudentGrade2D.java) |
+| Table6to9 | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/Table6to9.java) |
+| VotingCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/VotingCheck.java) |
 
 ---
 
@@ -204,9 +204,9 @@ A quick access table for all Java source codes completed till now.
 
 | Program Name | Link |
 |-------------|------|
-| ArrayIndexDemo | [Open](./Basic-Java-Programs/ArrayIndexDemo.java) |
-| BMICalculation | [Open](./Basic-Java-Programs/BMICalculation.java) |
-| CalendarDisplay | [Open](./Basic-Java-Programs/CalendarDisplay.java) |
+| ArrayIndexDemo | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings/ArrayIndexDemo.java) |
+| BMICalculation | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings/BMICalculation.java) |
+| CalendarDisplay | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings/CalendarDisplay.java) |
 | CharacterTypeTable | [Open](./Basic-Java-Programs/CharacterTypeTable.java) |
 | CharArrayCompare | [Open](./Basic-Java-Programs/CharArrayCompare.java) |
 | CharFrequencyASCII | [Open](./Basic-Java-Programs/CharFrequencyASCII.java) |
