@@ -1,26 +1,88 @@
-# 🚀BridgeLabz-Training 
+# 📘 BridgeLabz Training – Java & DSA Journey
 
-This repository serves as a workspace for my technical implementations and algorithmic practice, focusing on mastering core programming elements.
-
-----
-## 📂 Folder Structure
-The repository is organized by functional modules. Currently, all foundational logic resides within the ```core-java-practice``` branch.
-```
-BridgeLabz-Training/
-├── core-java-practice/
-│   └── gcr-codebase/
-│       └── programming-elements/ 
-├── leet-code-codebase/
-└── README.md
-```
-
-------
-## 🛠️ Phase 1: Basics & Environment
-This initial stage focuses more on understanding the basics of Git & GitHub and developing hands-on proficiency with version control workflows.
-
-It includes working on branch isolation, synchronizing local changes with GitHub, and resolving conflicts to maintain a clean repository state.
-
-It also includes the foundational programs, such as profit/loss percentage calcuations and temperature conversion, focusing on the precise use of variables, data types and arithmetic operators.
+Welcome to my **BridgeLabz Training Repository** 👋  
+This repository documents my **day-by-day learning, coding practice, and project development journey** during the BridgeLabz training program.  
+It reflects my growth in **Core Java, logic building, DSA, OOP concepts, and full-stack fundamentals** through consistent practice and commits.
 
 ---
-Keep Learning!☕
+
+## 👩‍💻 About Me
+
+**Name:** Priyanka Yadav  
+**Program:** BridgeLabz Training  
+**Branch:** B.Tech – Computer Science Engineering  
+**Focus Areas:** Core Java, DSA, OOPs, Control Flow, Problem Solving  
+**Goal:** Become an industry-ready software engineer  
+
+---
+
+## 📂 Repository Structure
+
+```text
+BridgeLabz-Training
+├── core-java-practice
+│   ├── gcr-codebase
+│   │   ├── programming-elements
+│   │   ├── control-flow
+│   │   └── arrays
+│   ├── scenario-based
+│   └── leet-code-codebase
+│
+├── Eclipse IDE
+└── Visual Studio
+```
+
+
+---
+
+## 📅 Daily Progress Log
+
+### **Day 1 – (16 Dec 2025)**  
+- Installed **JDK, VS Code, Eclipse, Git Bash**  
+- Setup **folder structure & Git(repository + branch)**  
+- First commit pushed  
+
+🔗 Repository Link (Add later):  
+`https://github.com/<your-username>/BridgeLabz-Training`
+
+---
+
+### **Day 2 – (17 Dec 2025)**  
+- Solved **5 LeetCode problems**
+- Completed **Basic Java programs**
+  - Add Two Numbers  
+  - Area of Circle  
+  - Power Calculation  
+  - Simple Interest  
+  - Average of Three Numbers  
+  - Kilometers To Miles  
+  - AgeOfHarry (currently visible in folder)  
+
+🔗 LeetCode Profile (Add link):  
+`https://leetcode.com/<your-username>/`
+
+---
+
+## 🧠 Skills Learned So Far
+
+- Java Syntax & Basics  
+- Operators & Datatypes  
+- Input/Output  
+- Loops & Conditional Statements  
+- Git Commit / Push / Branching  
+
+---
+
+## 🚀 Upcoming Learning Goals
+
+- Master OOPs (Inheritance, Polymorphism, Encapsulation, Abstraction)  
+- DSA Practice & Logic Building  
+- Mini + Major Java Projects  
+- Explore Full-Stack Development  
+
+---
+
+### ⭐ If you like this repo, don't forget to star it!
+
+
+
