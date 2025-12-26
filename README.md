@@ -43,7 +43,7 @@ BridgeLabz-Training
 - First commit pushed  
 
 🔗 Repository Link:  
-` [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training) `
+[Click Here](https://github.com/Priyanka33591/BridgeLabz-Training)
 
 ---
 
