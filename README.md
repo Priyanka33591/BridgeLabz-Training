@@ -63,6 +63,51 @@ BridgeLabz-Training
 
 ---
 
+---
+
+### **Day 3 – (18 Dec 2025)**  
+📌 Continued practice of Java fundamentals and started solving more mathematical & logical problems.  
+📂 Wrote multiple Java programs to improve input handling, arithmetic operations & real-life use cases.
+
+**Programs Completed:**
+
+- AgeOfHarry  
+- AveragePercentOfMarks  
+- ConversionInMiles  
+- ProfitLoss  
+- PensDivision  
+- DiscountFee  
+- VolumeOfEarth  
+- KiloToMiles  
+- UniversityDiscount  
+- Calculator  
+- AreaOfTriangle  
+- HeightConverter  
+- SquareSide  
+- DistanceConverter  
+- TotalPurchasePrice  
+- TraingleArea  
+- DistanceConverterFeetYard  
+- PurchasePrice  
+- QuotientRemainder  
+- IntOperation  
+- DoubleOpt  
+- Handshake  
+- BasicCalculator  
+
+🧠 **Concepts Practiced:**
+
+- Arithmetic operations  
+- User input using Scanner  
+- Unit conversions  
+- Mathematic based real-world problems  
+- Conditional calculations  
+- Writing structured program files  
+
+---
+
+
+
 ## 🧠 Skills Learned So Far
 
 - Java Syntax & Basics  
