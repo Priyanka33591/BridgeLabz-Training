@@ -69,78 +69,78 @@ A quick access table for all Java source codes completed till now.
 
 | Program Name | Link |
 |-------------|------|
-| AgeOfHarry | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AgeOfHarry.java) |
-| AveragePercentOfMarks | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AveragePercentOfMarks.java) |
-| ConversionInMiles | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/ConversionInMiles.java) |
-| ProfitLoss | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/ProfitLoss.java) |
-| PensDivision | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PensDivision.java) |
-| DiscountFee | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DiscountFee.java) |
-| VolumeOfEarth | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/VolumeOfEarth.java) |
-| KiloToMiles | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/KiloToMiles.java) |
-| UniversityDiscount | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/UniversityDiscount.java) |
-| Calculator | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/Calculator.java) |
-| AreaOfTriangle | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AreaOfTriangle.java) |
-| HeightConverter | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/HeightConverter.java) |
-| SquareSide | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/SquareSide.java) |
-| DistanceConverter | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DistanceConverter.java) |
-| TotalPurchasePrice | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/TotalPurchasePrice.java) |
-| TraingleArea | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/TraingleArea.java) |
-| DistanceConverterFeetYard | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DistanceConverterFeetYard.java) |
-| PurchasePrice | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PurchasePrice.java) |
-| QuotientRemainder | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/QuotientRemainder.java) |
-| IntOperation | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/IntOperation.java) |
-| DoubleOpt | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DoubleOpt.java) |
-| Handshake | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/Handshake.java) |
-| BasicCalculator | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/BasicCalculator.java) |
-| AveragePercentOfMarks | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/BasicCalculator.java) |
+| AgeOfHarry | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AgeOfHarry.java) |
+| AveragePercentOfMarks | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AveragePercentOfMarks.java) |
+| ConversionInMiles | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/ConversionInMiles.java) |
+| ProfitLoss | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/ProfitLoss.java) |
+| PensDivision | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PensDivision.java) |
+| DiscountFee | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DiscountFee.java) |
+| VolumeOfEarth | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/VolumeOfEarth.java) |
+| KiloToMiles | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/KiloToMiles.java) |
+| UniversityDiscount | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/UniversityDiscount.java) |
+| Calculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/Calculator.java) |
+| AreaOfTriangle | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AreaOfTriangle.java) |
+| HeightConverter | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/HeightConverter.java) |
+| SquareSide | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/SquareSide.java) |
+| DistanceConverter | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DistanceConverter.java) |
+| TotalPurchasePrice | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/TotalPurchasePrice.java) |
+| TraingleArea | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/TraingleArea.java) |
+| DistanceConverterFeetYard | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DistanceConverterFeetYard.java) |
+| PurchasePrice | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PurchasePrice.java) |
+| QuotientRemainder | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/QuotientRemainder.java) |
+| IntOperation | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/IntOperation.java) |
+| DoubleOpt | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DoubleOpt.java) |
+| Handshake | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/Handshake.java) |
+| BasicCalculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/BasicCalculator.java) |
+| AveragePercentOfMarks | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/BasicCalculator.java) |
 
 ---
 ### 📂 Day 4 Program Links (19 Dec 2025)
 
 | Program Name | Source Code |
 |-------------|-------------|
-| AbundantNumber | [Open](./Basic-Java-Programs/AbundantNumber.java) |
-| ArmstrongNumber | [Open](./Basic-Java-Programs/ArmstrongNumber.java) |
-| BMICalculator | [Open](./Basic-Java-Programs/BMICalculator.java) |
-| Calculator | [Open](./Basic-Java-Programs/Calculator.java) |
-| CountdownFor | [Open](./Basic-Java-Programs/CountdownFor.java) |
-| CountdownWhile | [Open](./Basic-Java-Programs/CountdownWhile.java) |
-| DayOfWeek | [Open](./Basic-Java-Programs/DayOfWeek.java) |
-| DigitCount | [Open](./Basic-Java-Programs/DigitCount.java) |
-| DivisibleBy5 | [Open](./Basic-Java-Programs/DivisibleBy5.java) |
-| EmployeeBonus | [Open](./Basic-Java-Programs/EmployeeBonus.java) |
-| FactorialFor | [Open](./Basic-Java-Programs/FactorialFor.java) |
-| FactorialWhile | [Open](./Basic-Java-Programs/FactorialWhile.java) |
-| FactorsUsingFor | [Open](./Basic-Java-Programs/FactorsUsingFor.java) |
-| FactorsUsingWhile | [Open](./Basic-Java-Programs/FactorsUsingWhile.java) |
+| AbundantNumber | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/AbundantNumber.java) |
+| ArmstrongNumber | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/ArmstrongNumber.java) |
+| BMICalculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/BMICalculator.java) |
+| Calculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/Calculator.java) |
+| CountdownFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/CountdownFor.java) |
+| CountdownWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/CountdownWhile.java) |
+| DayOfWeek | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/DayOfWeek.java) |
+| DigitCount | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/DigitCount.java) |
+| DivisibleBy5 | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/DivisibleBy5.java) |
+| EmployeeBonus | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/EmployeeBonus.java) |
+| FactorialFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FactorialFor.java) |
+| FactorialWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FactorialWhile.java) |
+| FactorsUsingFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FactorsUsingFor.java) |
+| FactorsUsingWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FactorsUsingWhile.java) |
 | FirstSmallest | [Open](./Basic-Java-Programs/FirstSmallest.java) |
-| FizzBuzzFor | [Open](./Basic-Java-Programs/FizzBuzzFor.java) |
-| FizzBuzzWhile | [Open](./Basic-Java-Programs/FizzBuzzWhile.java) |
-| FriendsComparison | [Open](./Basic-Java-Programs/FriendsComparison.java) |
-| GradeCalculator | [Open](./Basic-Java-Programs/GradeCalculator.java) |
-| GreatestFactorFor | [Open](./Basic-Java-Programs/GreatestFactorFor.java) |
-| GreatestFactorWhile | [Open](./Basic-Java-Programs/GreatestFactorWhile.java) |
-| HarshadNumber | [Open](./Basic-Java-Programs/HarshadNumber.java) |
-| LargestOfThree | [Open](./Basic-Java-Programs/LargestOfThree.java) |
-| LeapYearIfElse | [Open](./Basic-Java-Programs/LeapYearIfElse.java) |
-| LeapYearLogical | [Open](./Basic-Java-Programs/LeapYearLogical.java) |
-| MultiplesBelow100For | [Open](./Basic-Java-Programs/MultiplesBelow100For.java) |
-| MultiplesBelow100While | [Open](./Basic-Java-Programs/MultiplesBelow100While.java) |
-| MultiplicationTable | [Open](./Basic-Java-Programs/MultiplicationTable.java) |
-| NumberCheck | [Open](./Basic-Java-Programs/NumberCheck.java) |
-| OddEven | [Open](./Basic-Java-Programs/OddEven.java) |
-| OddEvenNumbers | [Open](./Basic-Java-Programs/OddEvenNumbers.java) |
-| PowerUsingFor | [Open](./Basic-Java-Programs/PowerUsingFor.java) |
-| PowerUsingWhile | [Open](./Basic-Java-Programs/PowerUsingWhile.java) |
-| PrimeNumberCheck | [Open](./Basic-Java-Programs/PrimeNumberCheck.java) |
-| SpringSeason | [Open](./Basic-Java-Programs/SpringSeason.java) |
-| SumCompareFor | [Open](./Basic-Java-Programs/SumCompareFor.java) |
-| SumCompareWhile | [Open](./Basic-Java-Programs/SumCompareWhile.java) |
-| SumNatural | [Open](./Basic-Java-Programs/SumNatural.java) |
-| SumUntilNegative | [Open](./Basic-Java-Programs/SumUntilNegative.java) |
-| SumUntilZero | [Open](./Basic-Java-Programs/SumUntilZero.java) |
-| Table6to9 | [Open](./Basic-Java-Programs/Table6to9.java) |
-| VotingCheck | [Open](./Basic-Java-Programs/VotingCheck.java) |
+| FizzBuzzFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FizzBuzzFor.java) |
+| FizzBuzzWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FizzBuzzWhile.java) |
+| FriendsComparison | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FriendsComparison.java) |
+| GradeCalculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/GradeCalculator.java) |
+| GreatestFactorFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/GreatestFactorFor.java) |
+| GreatestFactorWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/GreatestFactorWhile.java) |
+| HarshadNumber | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/HarshadNumber.java) |
+| LargestOfThree | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/LargestOfThree.java) |
+| LeapYearIfElse | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/LeapYearIfElse.java) |
+| LeapYearLogical | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/LeapYearLogical.java) |
+| MultiplesBelow100For | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/MultiplesBelow100For.java) |
+| MultiplesBelow100While | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/MultiplesBelow100While.java) |
+| MultiplicationTable | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/MultiplicationTable.java) |
+| NumberCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/NumberCheck.java) |
+| OddEven | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/OddEven.java) |
+| OddEvenNumbers | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/OddEvenNumbers.java) |
+| PowerUsingFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/PowerUsingFor.java) |
+| PowerUsingWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/PowerUsingWhile.java) |
+| PrimeNumberCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/PrimeNumberCheck.java) |
+| SpringSeason | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SpringSeason.java) |
+| SumCompareFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumCompareFor.java) |
+| SumCompareWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumCompareWhile.java) |
+| SumNatural | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumNatural.java) |
+| SumUntilNegative | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumUntilNegative.java) |
+| SumUntilZero | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumUntilZero.java) |
+| Table6to9 | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/Table6to9.java) |
+| VotingCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/VotingCheck.java) |
 
 ---
 ---
