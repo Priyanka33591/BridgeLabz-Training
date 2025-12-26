@@ -50,20 +50,20 @@ BridgeLabz-Training
 ---
 
 ## 📜 Java Programs Index
-
+### **Day 2 – (17 Dec 2025)** 
 A quick access table for all Java source codes completed till now.
 
-| Day | Program Name | Source Code Link |
-|-----|--------------|------------------|
-| Day 2 | AddTwoNumbers | [Click Here](./Basic-Java-Programs/AddTwoNumbers.java) |
-| Day 2 | CelsiusToFahrenheit | [Click Here](./Basic-Java-Programs/CelsiusToFahrenheit.java) |
-| Day 2 | AreaOfCircle | [Click Here](./Basic-Java-Programs/AreaOfCircle.java) |
-| Day 2 | VolumeOfCylinder | [Click Here](./Basic-Java-Programs/VolumeOfCylinder.java) |
-| Day 2 | SimpleInterest | [Click Here](./Basic-Java-Programs/SimpleInterest.java) |
-| Day 2 | PowerCalculation | [Click Here](./Basic-Java-Programs/PowerCalculation.java) |
-| Day 2 | CalculateAverageOfThreeNumbers | [Click Here](./Basic-Java-Programs/CalculateAverageOfThreeNumbers.java) |
-| Day 2 | KilometersToMiles | [Click Here](./Basic-Java-Programs/KilometersToMiles.java) |
-| Day 2 | AgeOfHarry | [Click Here](./Basic-Java-Programs/AgeOfHarry.java) |
+| Program Name | Source Code Link |
+|--------------|------------------|
+| AddTwoNumbers | [Click Here](./Basic-Java-Programs/AddTwoNumbers.java) |
+| CelsiusToFahrenheit | [Click Here](./Basic-Java-Programs/CelsiusToFahrenheit.java) |
+| AreaOfCircle | [Click Here](./Basic-Java-Programs/AreaOfCircle.java) |
+| VolumeOfCylinder | [Click Here](./Basic-Java-Programs/VolumeOfCylinder.java) |
+| SimpleInterest | [Click Here](./Basic-Java-Programs/SimpleInterest.java) |
+| PowerCalculation | [Click Here](./Basic-Java-Programs/PowerCalculation.java) |
+| CalculateAverageOfThreeNumbers | [Click Here](./Basic-Java-Programs/CalculateAverageOfThreeNumbers.java) |
+| KilometersToMiles | [Click Here](./Basic-Java-Programs/KilometersToMiles.java) |
+| AgeOfHarry | [Click Here](./Basic-Java-Programs/AgeOfHarry.java) |
 
 ### **Day 3 Program Links**
 
