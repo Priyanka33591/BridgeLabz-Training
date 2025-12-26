@@ -55,14 +55,14 @@ A quick access table for all Java source codes completed till now.
 
 | Program Name | Source Code Link |
 |--------------|------------------|
-| AddTwoNumbers | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AddTwoNumbers.java) |
-| CelsiusToFahrenheit | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/CelsiusToFahrenheit.java) |
-| AreaOfCircle | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AreaOfCircle.java) |
-| VolumeOfCylinder | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/VolumeOfACylinder.java) |
-| SimpleInterest | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/SimpleInterest.java) |
-| PowerCalculation | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PowerCalculation.java) |
-| CalculateAverageOfThreeNumbers | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/CalculateAverageOfThreeNumbers.java) |
-| KilometersToMiles | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/KilometersToMiles.java) |
+| AddTwoNumbers | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AddTwoNumbers.java) |
+| CelsiusToFahrenheit | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/CelsiusToFahrenheit.java) |
+| AreaOfCircle | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AreaOfCircle.java) |
+| VolumeOfCylinder | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/VolumeOfACylinder.java) |
+| SimpleInterest | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/SimpleInterest.java) |
+| PowerCalculation | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PowerCalculation.java) |
+| CalculateAverageOfThreeNumbers | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/CalculateAverageOfThreeNumbers.java) |
+| KilometersToMiles | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/KilometersToMiles.java) |
 
 
 ### **Day 3 - (18 Dec 2025)**
