@@ -42,8 +42,8 @@ BridgeLabz-Training
 - Setup **folder structure & Git(repository + branch)**  
 - First commit pushed  
 
-🔗 Repository Link (Add later):  
-`https://github.com/<your-username>/BridgeLabz-Training`
+🔗 Repository Link:  
+` [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training) `
 
 ---
 
@@ -55,44 +55,44 @@ A quick access table for all Java source codes completed till now.
 
 | Program Name | Source Code Link |
 |--------------|------------------|
-| AddTwoNumbers | [Click Here](./Basic-Java-Programs/AddTwoNumbers.java) |
-| CelsiusToFahrenheit | [Click Here](./Basic-Java-Programs/CelsiusToFahrenheit.java) |
-| AreaOfCircle | [Click Here](./Basic-Java-Programs/AreaOfCircle.java) |
-| VolumeOfCylinder | [Click Here](./Basic-Java-Programs/VolumeOfCylinder.java) |
-| SimpleInterest | [Click Here](./Basic-Java-Programs/SimpleInterest.java) |
-| PowerCalculation | [Click Here](./Basic-Java-Programs/PowerCalculation.java) |
-| CalculateAverageOfThreeNumbers | [Click Here](./Basic-Java-Programs/CalculateAverageOfThreeNumbers.java) |
-| KilometersToMiles | [Click Here](./Basic-Java-Programs/KilometersToMiles.java) |
-| AgeOfHarry | [Click Here](./Basic-Java-Programs/AgeOfHarry.java) |
+| AddTwoNumbers | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AddTwoNumbers.java) |
+| CelsiusToFahrenheit | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/CelsiusToFahrenheit.java) |
+| AreaOfCircle | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AreaOfCircle.java) |
+| VolumeOfCylinder | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/VolumeOfACylinder.java) |
+| SimpleInterest | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/SimpleInterest.java) |
+| PowerCalculation | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PowerCalculation.java) |
+| CalculateAverageOfThreeNumbers | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/CalculateAverageOfThreeNumbers.java) |
+| KilometersToMiles | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/KilometersToMiles.java) |
+
 
 ### **Day 3 - (18 Dec 2025)**
 
 | Program Name | Link |
 |-------------|------|
-| AgeOfHarry | [Open](./Basic-Java-Programs/AgeOfHarry.java) |
-| AveragePercentOfMarks | [Open](./Basic-Java-Programs/AveragePercentOfMarks.java) |
-| ConversionInMiles | [Open](./Basic-Java-Programs/ConversionInMiles.java) |
-| ProfitLoss | [Open](./Basic-Java-Programs/ProfitLoss.java) |
-| PensDivision | [Open](./Basic-Java-Programs/PensDivision.java) |
-| DiscountFee | [Open](./Basic-Java-Programs/DiscountFee.java) |
-| VolumeOfEarth | [Open](./Basic-Java-Programs/VolumeOfEarth.java) |
-| KiloToMiles | [Open](./Basic-Java-Programs/KiloToMiles.java) |
-| UniversityDiscount | [Open](./Basic-Java-Programs/UniversityDiscount.java) |
-| Calculator | [Open](./Basic-Java-Programs/Calculator.java) |
-| AreaOfTriangle | [Open](./Basic-Java-Programs/AreaOfTriangle.java) |
-| HeightConverter | [Open](./Basic-Java-Programs/HeightConverter.java) |
-| SquareSide | [Open](./Basic-Java-Programs/SquareSide.java) |
-| DistanceConverter | [Open](./Basic-Java-Programs/DistanceConverter.java) |
-| TotalPurchasePrice | [Open](./Basic-Java-Programs/TotalPurchasePrice.java) |
-| TraingleArea | [Open](./Basic-Java-Programs/TraingleArea.java) |
-| DistanceConverterFeetYard | [Open](./Basic-Java-Programs/DistanceConverterFeetYard.java) |
-| PurchasePrice | [Open](./Basic-Java-Programs/PurchasePrice.java) |
-| QuotientRemainder | [Open](./Basic-Java-Programs/QuotientRemainder.java) |
-| IntOperation | [Open](./Basic-Java-Programs/IntOperation.java) |
-| DoubleOpt | [Open](./Basic-Java-Programs/DoubleOpt.java) |
-| Handshake | [Open](./Basic-Java-Programs/Handshake.java) |
-| BasicCalculator | [Open](./Basic-Java-Programs/BasicCalculator.java) |
-| AveragePercentOfMarks | [Open](./Basic-Java-Programs/BasicCalculator.java) |
+| AgeOfHarry | [Click Here](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AgeOfHarry.java) |
+| AveragePercentOfMarks | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AveragePercentOfMarks.java) |
+| ConversionInMiles | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/ConversionInMiles.java) |
+| ProfitLoss | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/ProfitLoss.java) |
+| PensDivision | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PensDivision.java) |
+| DiscountFee | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DiscountFee.java) |
+| VolumeOfEarth | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/VolumeOfEarth.java) |
+| KiloToMiles | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/KiloToMiles.java) |
+| UniversityDiscount | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/UniversityDiscount.java) |
+| Calculator | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/Calculator.java) |
+| AreaOfTriangle | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AreaOfTriangle.java) |
+| HeightConverter | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/HeightConverter.java) |
+| SquareSide | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/SquareSide.java) |
+| DistanceConverter | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DistanceConverter.java) |
+| TotalPurchasePrice | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/TotalPurchasePrice.java) |
+| TraingleArea | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/TraingleArea.java) |
+| DistanceConverterFeetYard | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DistanceConverterFeetYard.java) |
+| PurchasePrice | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PurchasePrice.java) |
+| QuotientRemainder | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/QuotientRemainder.java) |
+| IntOperation | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/IntOperation.java) |
+| DoubleOpt | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DoubleOpt.java) |
+| Handshake | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/Handshake.java) |
+| BasicCalculator | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/BasicCalculator.java) |
+| AveragePercentOfMarks | [Open](./https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/BasicCalculator.java) |
 
 ---
 ### 📂 Day 4 Program Links (19 Dec 2025)
