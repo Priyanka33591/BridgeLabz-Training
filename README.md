@@ -47,53 +47,54 @@ BridgeLabz-Training
 
 ---
 
-### **Day 2 – (17 Dec 2025)**  
-- Solved **5 LeetCode problems**
-- Completed **Basic Java programs**
-  - Add Two Numbers  
-  - Area of Circle  
-  - Power Calculation  
-  - Simple Interest  
-  - Average of Three Numbers  
-  - Kilometers To Miles  
-  - AgeOfHarry (currently visible in folder)  
+---
 
-🔗 LeetCode Profile (Add link):  
-`https://leetcode.com/<your-username>/`
+## 📜 Java Programs Index
+
+A quick access table for all Java source codes completed till now.
+
+| Day | Program Name | Source Code Link |
+|-----|--------------|------------------|
+| Day 2 | AddTwoNumbers | [Click Here](./Basic-Java-Programs/AddTwoNumbers.java) |
+| Day 2 | CelsiusToFahrenheit | [Click Here](./Basic-Java-Programs/CelsiusToFahrenheit.java) |
+| Day 2 | AreaOfCircle | [Click Here](./Basic-Java-Programs/AreaOfCircle.java) |
+| Day 2 | VolumeOfCylinder | [Click Here](./Basic-Java-Programs/VolumeOfCylinder.java) |
+| Day 2 | SimpleInterest | [Click Here](./Basic-Java-Programs/SimpleInterest.java) |
+| Day 2 | PowerCalculation | [Click Here](./Basic-Java-Programs/PowerCalculation.java) |
+| Day 2 | CalculateAverageOfThreeNumbers | [Click Here](./Basic-Java-Programs/CalculateAverageOfThreeNumbers.java) |
+| Day 2 | KilometersToMiles | [Click Here](./Basic-Java-Programs/KilometersToMiles.java) |
+| Day 2 | AgeOfHarry | [Click Here](./Basic-Java-Programs/AgeOfHarry.java) |
+
+### **Day 3 Program Links**
+
+| Program Name | Link |
+|-------------|------|
+| AgeOfHarry | [Open](./Basic-Java-Programs/AgeOfHarry.java) |
+| AveragePercentOfMarks | [Open](./Basic-Java-Programs/AveragePercentOfMarks.java) |
+| ConversionInMiles | [Open](./Basic-Java-Programs/ConversionInMiles.java) |
+| ProfitLoss | [Open](./Basic-Java-Programs/ProfitLoss.java) |
+| PensDivision | [Open](./Basic-Java-Programs/PensDivision.java) |
+| DiscountFee | [Open](./Basic-Java-Programs/DiscountFee.java) |
+| VolumeOfEarth | [Open](./Basic-Java-Programs/VolumeOfEarth.java) |
+| KiloToMiles | [Open](./Basic-Java-Programs/KiloToMiles.java) |
+| UniversityDiscount | [Open](./Basic-Java-Programs/UniversityDiscount.java) |
+| Calculator | [Open](./Basic-Java-Programs/Calculator.java) |
+| AreaOfTriangle | [Open](./Basic-Java-Programs/AreaOfTriangle.java) |
+| HeightConverter | [Open](./Basic-Java-Programs/HeightConverter.java) |
+| SquareSide | [Open](./Basic-Java-Programs/SquareSide.java) |
+| DistanceConverter | [Open](./Basic-Java-Programs/DistanceConverter.java) |
+| TotalPurchasePrice | [Open](./Basic-Java-Programs/TotalPurchasePrice.java) |
+| TraingleArea | [Open](./Basic-Java-Programs/TraingleArea.java) |
+| DistanceConverterFeetYard | [Open](./Basic-Java-Programs/DistanceConverterFeetYard.java) |
+| PurchasePrice | [Open](./Basic-Java-Programs/PurchasePrice.java) |
+| QuotientRemainder | [Open](./Basic-Java-Programs/QuotientRemainder.java) |
+| IntOperation | [Open](./Basic-Java-Programs/IntOperation.java) |
+| DoubleOpt | [Open](./Basic-Java-Programs/DoubleOpt.java) |
+| Handshake | [Open](./Basic-Java-Programs/Handshake.java) |
+| BasicCalculator | [Open](./Basic-Java-Programs/BasicCalculator.java) |
 
 ---
 
----
-
-### **Day 3 – (18 Dec 2025)**  
-📌 Continued practice of Java fundamentals and started solving more mathematical & logical problems.  
-📂 Wrote multiple Java programs to improve input handling, arithmetic operations & real-life use cases.
-
-**Programs Completed:**
-
-- AgeOfHarry  
-- AveragePercentOfMarks  
-- ConversionInMiles  
-- ProfitLoss  
-- PensDivision  
-- DiscountFee  
-- VolumeOfEarth  
-- KiloToMiles  
-- UniversityDiscount  
-- Calculator  
-- AreaOfTriangle  
-- HeightConverter  
-- SquareSide  
-- DistanceConverter  
-- TotalPurchasePrice  
-- TraingleArea  
-- DistanceConverterFeetYard  
-- PurchasePrice  
-- QuotientRemainder  
-- IntOperation  
-- DoubleOpt  
-- Handshake  
-- BasicCalculator  
 
 🧠 **Concepts Practiced:**
 
