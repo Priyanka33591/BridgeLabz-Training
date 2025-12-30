@@ -1,4 +1,4 @@
-public class CartItem {
+class CartItem {
     String itemName;
     double price;
     int quantity;
