@@ -1,12 +1,11 @@
 public class EmpWageBuilderCase {
 
-    public static void main(String[] args) {
-        // Constants
-        int IS_PART_TIME = 1;
-        int IS_FULL_TIME = 2;
-        int EMP_RATE_PER_HOUR = 20;
+    public static final int IS_PART_TIME = 1;
+    public static final int IS_FULL_TIME = 2;
+    public static final int EMP_RATE_PER_HOUR = 20;
 
-        // Variables
+    public static void main(String[] args) {
+
         int empHrs = 0;
         int empWage = 0;
 
@@ -16,9 +15,11 @@ public class EmpWageBuilderCase {
             case IS_PART_TIME:
                 empHrs = 4;
                 break;
+
             case IS_FULL_TIME:
                 empHrs = 8;
                 break;
+
             default:
                 empHrs = 0;
         }
