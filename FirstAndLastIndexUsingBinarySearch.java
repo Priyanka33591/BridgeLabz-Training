@@ -13,6 +13,7 @@ public class FirstAndLastIndexUsingBinarySearch {
         int lastIdx = lastIndex(arr, target);
         System.out.println("first index is " + firstIdx);
         System.out.println("last index is " + lastIdx);
+        scan.close();
     }
 
     public static int firstIndex(int[] arr, int target) {

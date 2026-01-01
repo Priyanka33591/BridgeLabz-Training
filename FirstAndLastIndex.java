@@ -23,6 +23,7 @@ public class FirstAndLastIndex {
         }
         System.out.println("first index of " + target + " in the array is " + firstIndex);
         System.out.println("last index of " + target + " in array is " + lastIndex);
+        scan.close();
     }
 
 }
