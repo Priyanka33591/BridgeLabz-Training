@@ -1,17 +1,15 @@
 public class ReverseInteger {
-    public int Reverse(int x) {
-        int n = x;
-        int rev = 0;
-        while(n != 0) {
-            if((long)rev * 10 + (long)n % 10 > (long)Int32.MaxValue 
-                || (long)rev * 10 + (long)n % 10 < (long)Int32.MinValue
-            ) {
-                return 0;
-            }
-                
-            rev = rev * 10 + n % 10;
-            n /= 10;
+    public int reverse(int x) {
+        long num = 0;
+        while (x != 0) {
+            long rem = x % 10;
+            x = x / 10;
+            num = num * 10 + rem;
         }
-        return rev;
+
+        if (num > Integer.MAX_VALUE || num < Integer.MIN_VALUE) {
+            return 0;
+        }
+        return (int) num;
     }
 }
