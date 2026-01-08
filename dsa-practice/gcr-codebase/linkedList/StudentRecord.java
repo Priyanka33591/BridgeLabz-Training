@@ -8,28 +8,34 @@ class StudentNode {
         this.name = name;
         this.age = age;
         this.grade = grade;
-        this.next = null;
     }
 }
 
-class StudentList {
+public class StudentRecord {
     StudentNode head;
 
+    // Add at beginning
+    void addAtBeginning(int r, String n, int a, String g) {
+        StudentNode node = new StudentNode(r, n, a, g);
+        node.next = head;
+        head = node;
+    }
+
     // Add at end
-    void addStudent(int roll, String name, int age, String grade) {
-        StudentNode newNode = new StudentNode(roll, name, age, grade);
+    void addAtEnd(int r, String n, int a, String g) {
+        StudentNode node = new StudentNode(r, n, a, g);
         if (head == null) {
-            head = newNode;
+            head = node;
             return;
         }
         StudentNode temp = head;
         while (temp.next != null)
             temp = temp.next;
-        temp.next = newNode;
+        temp.next = node;
     }
 
     // Delete by roll
-    void deleteStudent(int roll) {
+    void delete(int roll) {
         if (head == null) return;
 
         if (head.roll == roll) {
@@ -50,7 +56,7 @@ class StudentList {
         StudentNode temp = head;
         while (temp != null) {
             if (temp.roll == roll) {
-                System.out.println(temp.name + " " + temp.grade);
+                System.out.println("Found: " + temp.name);
                 return;
             }
             temp = temp.next;
@@ -77,5 +83,15 @@ class StudentList {
             System.out.println(temp.roll + " " + temp.name + " " + temp.grade);
             temp = temp.next;
         }
+    }
+
+    public static void main(String[] args) {
+        StudentRecord list = new StudentRecord();
+        list.addAtEnd(1, "Amit", 20, "A");
+        list.addAtBeginning(2, "Riya", 21, "B");
+        list.display();
+        list.updateGrade(1, "A+");
+        list.delete(2);
+        list.display();
     }
 }
