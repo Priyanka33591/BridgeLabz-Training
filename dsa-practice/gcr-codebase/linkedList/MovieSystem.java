@@ -4,15 +4,12 @@ class MovieNode {
     double rating;
     MovieNode next, prev;
 
-    MovieNode(String title, String director, int year, double rating) {
-        this.title = title;
-        this.director = director;
-        this.year = year;
-        this.rating = rating;
+    MovieNode(String t, String d, int y, double r) {
+        title = t; director = d; year = y; rating = r;
     }
 }
 
-class MovieList {
+public class MovieSystem {
     MovieNode head, tail;
 
     void addMovie(String t, String d, int y, double r) {
@@ -26,7 +23,7 @@ class MovieList {
         tail = node;
     }
 
-    void removeByTitle(String title) {
+    void deleteByTitle(String title) {
         MovieNode temp = head;
         while (temp != null) {
             if (temp.title.equals(title)) {
@@ -42,12 +39,26 @@ class MovieList {
     }
 
     void displayForward() {
-        for (MovieNode t = head; t != null; t = t.next)
-            System.out.println(t.title + " " + t.rating);
+        MovieNode temp = head;
+        while (temp != null) {
+            System.out.println(temp.title);
+            temp = temp.next;
+        }
     }
 
     void displayReverse() {
-        for (MovieNode t = tail; t != null; t = t.prev)
-            System.out.println(t.title + " " + t.rating);
+        MovieNode temp = tail;
+        while (temp != null) {
+            System.out.println(temp.title);
+            temp = temp.prev;
+        }
+    }
+
+    public static void main(String[] args) {
+        MovieSystem m = new MovieSystem();
+        m.addMovie("Inception", "Nolan", 2010, 9.0);
+        m.addMovie("Interstellar", "Nolan", 2014, 9.2);
+        m.displayForward();
+        m.displayReverse();
     }
 }
