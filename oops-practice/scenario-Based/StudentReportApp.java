@@ -1,5 +1,3 @@
-import java.util.*;
-
 class InvalidMarkException extends Exception {
     public InvalidMarkException(String msg) {
         super(msg);

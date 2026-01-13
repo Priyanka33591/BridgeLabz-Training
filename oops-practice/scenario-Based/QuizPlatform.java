@@ -1,5 +1,3 @@
-import java.util.*;
-
 class InvalidQuizSubmissionException extends Exception {
     public InvalidQuizSubmissionException(String msg) {
         super(msg);
