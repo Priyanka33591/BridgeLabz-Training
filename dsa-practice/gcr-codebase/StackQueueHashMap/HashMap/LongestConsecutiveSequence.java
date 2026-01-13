@@ -1,9 +1,9 @@
-import java.util.*;
-
+package StackQueueHashMap.HashMap;
+import java.util.HashSet;
 public class LongestConsecutiveSequence {
 
     public static int longestConsecutive(int[] nums) {
-        Set<Integer> set = new HashSet<>();
+        HashSet<Integer> set = new HashSet<>();
         int maxLength = 0;
 
         for (int num : nums) {
