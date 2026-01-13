@@ -1,5 +1,3 @@
-package StackQueueHashMap.HashMap;
-
 import java.util.*;
 
 public class LongestConsecutiveSequence {
