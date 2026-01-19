@@ -1,10 +1,4 @@
-package service;
-
 import java.util.List;
-
-import dao.ContactDAO;
-import model.Contact;
-
 public class ContactService {
 
     private final ContactDAO dao = new ContactDAO();

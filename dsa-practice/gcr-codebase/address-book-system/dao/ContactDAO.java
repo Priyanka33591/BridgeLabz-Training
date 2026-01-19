@@ -1,10 +1,6 @@
-package dao;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
-import model.Contact;
 
 public class ContactDAO {
 

@@ -1,5 +1,3 @@
-package model;
-
 public class Contact {
     private String id;
     private String firstname;

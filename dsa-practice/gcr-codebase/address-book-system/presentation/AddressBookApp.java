@@ -1,11 +1,6 @@
-package presentation;
-
 import java.util.List;
 import java.util.Scanner;
 import java.util.UUID;
-
-import model.Contact;
-import service.ContactService;
 
 public class AddressBookApp {
 
