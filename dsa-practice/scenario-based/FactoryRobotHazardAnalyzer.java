@@ -37,7 +37,7 @@ class RobotHazardAuditor {
     }
 }
 
-public class Program {
+public class FactoryRobotHazardAnalyzer {
 
     public static void main(String[] args) {
 
