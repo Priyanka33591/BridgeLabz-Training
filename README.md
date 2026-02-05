@@ -1,336 +1,472 @@
-# 📘 BridgeLabz Training – Java & DSA Journey
+# 🚀 BridgeLabz-Training  
 
-Welcome to my **BridgeLabz Training Repository** 👋  
-This repository documents my **day-by-day learning, coding practice, and project development journey** during the BridgeLabz training program.  
-It reflects my growth in **Core Java, logic building, DSA, OOP concepts, and full-stack fundamentals** through consistent practice and commits.
+**BridgeLabz – Training Repository**
 
----
-
-## 👩‍💻 About Me
-
-**Name:** Priyanka Yadav  
-**Program:** BridgeLabz Training  
-**Branch:** B.Tech – Computer Science Engineering  
-**Focus Areas:** Core Java, DSA, OOPs, Control Flow, Problem Solving  
-**Goal:** Become an industry-ready software engineer  
+This repository documents my daily learning and hands-on practice during the **BridgeLabz – Training program**.  
+The training focuses on building **strong Core Java fundamentals**, improving **logical thinking**, and developing **problem-solving skills** aligned with industry standards.
 
 ---
 
-## 📂 Repository Structure
+## 🏗️ Repository Structure (High-Level)
 
 ```text
-BridgeLabz-Training
-├── core-java-practice
-│   ├── gcr-codebase
-│   │   ├── programming-elements
-│   │   ├── control-flow
-│   │   └── arrays
-│   ├── scenario-based
-│   └── leet-code-codebase
-│
-├── Eclipse IDE
-└── Visual Studio
+📦 BridgeLabz-Training
+ ┣ 📂 core-java-practice
+ ┃ ┣ 📂 programming-elements
+ ┃ ┣ 📂 control-flow
+ ┃ ┣ 📂 leet-code-codebase
+ ┃ ┣ 📂 OOP              (to be added)
+ ┃ ┣ 📂 collections     (to be added)
+ ┃ ┣ 📂 exceptions      (to be added)
+ ┣ 📄 README.md
+
 ```
+━━━━━━━━━━━━━━━━━━━━━━━
+## 🌿 Active Branch
+
+- 🔹 **core-java-practice**  
+  Current learning and implementation branch
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📅 DAILY PROGRESS LOG
+
+### 🟦 WEEK 1 (FOUNDATION AND BASICS)
+
+### 🗓️ Day 1 – 16 December 2025  
+**Focus:** Git, GitHub & Logic Building
+
+- 🔧 Set up GitHub repository and folder structure
+- 🔄 Practiced Git workflow:
+  - 📌 `git status`
+  - ➕ `git add`
+  - 📝 `git commit`
+  - 🚀 `git push`
+- 🧠 Solved **5 LeetCode problems** in Java
+- 📈 Improved logical thinking and problem-solving skills
+
+- 📂 **Folder reference:**  
+  👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 
----
+━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📅 Daily Progress Log
+### 🗓️ Day 2 – 17 December 2025  
+**Focus:** Core Java Fundamentals
 
-### **Day 1 – (16 Dec 2025)**  
-- Installed **JDK, VS Code, Eclipse, Git Bash**  
-- Setup **folder structure & Git(repository + branch)**  
-- First commit pushed  
+- 💻 Practiced introductory Core Java programs
+- 📚 Covered:
+  - 🧾 Java syntax
+  - ⌨️ Input / Output handling
+  - ➕ Arithmetic operations
+  - 🔀 Basic conditional logic
 
-🔗 Repository Link:  
-[Click Here](https://github.com/Priyanka33591/BridgeLabz-Training)
-
----
-
----
-
-## 📜 Java Programs Index
-### **Day 2 – (17 Dec 2025)** 
-A quick access table for all Java source codes completed till now.
-
-| Program Name | Source Code Link |
-|--------------|------------------|
-| AddTwoNumbers | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AddTwoNumbers.java) |
-| CelsiusToFahrenheit | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/CelsiusToFahrenheit.java) |
-| AreaOfCircle | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AreaOfCircle.java) |
-| VolumeOfCylinder | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/VolumeOfACylinder.java) |
-| SimpleInterest | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/SimpleInterest.java) |
-| PowerCalculation | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PowerCalculation.java) |
-| CalculateAverageOfThreeNumbers | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/CalculateAverageOfThreeNumbers.java) |
-| KilometersToMiles | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/KilometersToMiles.java) |
+📂 **Folder reference:**  
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 
-### **Day 3 - (18 Dec 2025)**
+━━━━━━━━━━━━━━━━━━━━━━━
 
-| Program Name | Link |
-|-------------|------|
-| AgeOfHarry | [Click Here](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AgeOfHarry.java) |
-| AveragePercentOfMarks | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AveragePercentOfMarks.java) |
-| ConversionInMiles | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/ConversionInMiles.java) |
-| ProfitLoss | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/ProfitLoss.java) |
-| PensDivision | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PensDivision.java) |
-| DiscountFee | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DiscountFee.java) |
-| VolumeOfEarth | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/VolumeOfEarth.java) |
-| KiloToMiles | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/KiloToMiles.java) |
-| UniversityDiscount | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/UniversityDiscount.java) |
-| Calculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/Calculator.java) |
-| AreaOfTriangle | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/AreaOfTriangle.java) |
-| HeightConverter | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/HeightConverter.java) |
-| SquareSide | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/SquareSide.java) |
-| DistanceConverter | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DistanceConverter.java) |
-| TotalPurchasePrice | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/TotalPurchasePrice.java) |
-| TraingleArea | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/TraingleArea.java) |
-| DistanceConverterFeetYard | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DistanceConverterFeetYard.java) |
-| PurchasePrice | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/PurchasePrice.java) |
-| QuotientRemainder | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/QuotientRemainder.java) |
-| IntOperation | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/IntOperation.java) |
-| DoubleOpt | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/DoubleOpt.java) |
-| Handshake | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/Handshake.java) |
-| BasicCalculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/BasicCalculator.java) |
-| AveragePercentOfMarks | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/blob/core-java-practice/gcr-codebase/programming-elements/BasicCalculator.java) |
+### 🗓️ Day 3 – 18 December 2025  
+**Focus:** Programming Elements
 
----
-### 📂 Day 4 Program Links (19 Dec 2025)
+- 🧩 Implemented Core Java programs using:
+  - 🧮 Variables and data types
+  - ➗ Operators
+  - ⌨️ Basic input/output
+  - 🧠 Foundational logic building
 
-| Program Name | Source Code |
-|-------------|-------------|
-| AbundantNumber | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/AbundantNumber.java) |
-| ArmstrongNumber | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/ArmstrongNumber.java) |
-| BMICalculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/BMICalculator.java) |
-| Calculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/Calculator.java) |
-| CountdownFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/CountdownFor.java) |
-| CountdownWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/CountdownWhile.java) |
-| DayOfWeek | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/DayOfWeek.java) |
-| DigitCount | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/DigitCount.java) |
-| DivisibleBy5 | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/DivisibleBy5.java) |
-| EmployeeBonus | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/EmployeeBonus.java) |
-| FactorialFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FactorialFor.java) |
-| FactorialWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FactorialWhile.java) |
-| FactorsUsingFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FactorsUsingFor.java) |
-| FactorsUsingWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FactorsUsingWhile.java) |
-| FirstSmallest | [Open](./Basic-Java-Programs/FirstSmallest.java) |
-| FizzBuzzFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FizzBuzzFor.java) |
-| FizzBuzzWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FizzBuzzWhile.java) |
-| FriendsComparison | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/FriendsComparison.java) |
-| GradeCalculator | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/GradeCalculator.java) |
-| GreatestFactorFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/GreatestFactorFor.java) |
-| GreatestFactorWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/GreatestFactorWhile.java) |
-| HarshadNumber | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/HarshadNumber.java) |
-| LargestOfThree | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/LargestOfThree.java) |
-| LeapYearIfElse | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/LeapYearIfElse.java) |
-| LeapYearLogical | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/LeapYearLogical.java) |
-| MultiplesBelow100For | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/MultiplesBelow100For.java) |
-| MultiplesBelow100While | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/MultiplesBelow100While.java) |
-| MultiplicationTable | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/MultiplicationTable.java) |
-| NumberCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/NumberCheck.java) |
-| OddEven | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/OddEven.java) |
-| OddEvenNumbers | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/OddEvenNumbers.java) |
-| PowerUsingFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/PowerUsingFor.java) |
-| PowerUsingWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/PowerUsingWhile.java) |
-| PrimeNumberCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/PrimeNumberCheck.java) |
-| SpringSeason | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SpringSeason.java) |
-| SumCompareFor | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumCompareFor.java) |
-| SumCompareWhile | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumCompareWhile.java) |
-| SumNatural | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumNatural.java) |
-| SumUntilNegative | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumUntilNegative.java) |
-| SumUntilZero | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/SumUntilZero.java) |
-| Table6to9 | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/Table6to9.java) |
-| VotingCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow/VotingCheck.java) |
-
----
----
-
-### **Day 5 – (20 Dec 2025)**  
-📌 Started learning **Arrays in Java**  
-📌 Worked on **1D & 2D Arrays**, iteration, input handling, summation, comparison  
-📌 Implemented programs on searching, reversing, digits operations and student-related data  
-📌 Learned multi-dimensional array basics
-
----
-
-### 📂 Day 5 Program Links
-
-| Program Name | Link |
-|-------------|------|
-| Array2Dto1D | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/Array2Dto1D.java) |
-| ArraySum | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/ArraySum.java) |
-| BMICalculation | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/BMICalculation.java) |
-| BMIMultiDimensional | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/BMIMultiDimensional.java) |
-| DigitFrequency | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/DigitFrequency.java) |
-| DynamicLargestDigits | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/DynamicLargestDigits.java) |
-| EmployeeBonus | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/EmployeeBonus.java) |
-| FactorsArray | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/FactorsArray.java) |
-| FizzBuzz | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/FizzBuzz.java) |
-| FriendsInfo | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/FriendsInfo.java) |
-| LargestDigits | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/LargestDigits.java) |
-| MeanHeight | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/MeanHeight.java) |
-| MultiplicationTable | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/MultiplicationTable.java) |
-| NumberCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/NumberCheck.java) |
-| OddEvenArray | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/OddEvenArray.java) |
-| ReverseNumber | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/ReverseNumber.java) |
-| StudentGrade | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/StudentGrade.java) |
-| StudentGrade2D | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/StudentGrade2D.java) |
-| Table6to9 | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/Table6to9.java) |
-| VotingCheck | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays/VotingCheck.java) |
-
----
-
-### 🧠 Concepts Learned
-
-- Arrays (1D & 2D)  
-- Traversing arrays using loops  
-- Reversal & digit counting logic  
-- User-input based array operations  
-- Basic mathematical logic building  
-
----
-
----
-
-### **Day 6 – (22 Dec 2025)**  
-📌 Focused on **String Handling in Java**  
-📌 Performed operations like comparison, substring, trimming, character frequency, case conversion  
-📌 Implemented logical problems with strings including vowels/consonants, unique characters & palindrome check  
-📌 Also revised exception handling demos
-
----
-
-### 📂 Day 6 Program Links
-
-| Program Name | Link |
-|-------------|------|
-| ArrayIndexDemo | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings/ArrayIndexDemo.java) |
-| BMICalculation | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings/BMICalculation.java) |
-| CalendarDisplay | [Open](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings/CalendarDisplay.java) |
-| CharacterTypeTable | [Open](./Basic-Java-Programs/CharacterTypeTable.java) |
-| CharArrayCompare | [Open](./Basic-Java-Programs/CharArrayCompare.java) |
-| CharFrequencyASCII | [Open](./Basic-Java-Programs/CharFrequencyASCII.java) |
-| CompareStrings | [Open](./Basic-Java-Programs/CompareStrings.java) |
-| DeckOfCards | [Open](./Basic-Java-Programs/DeckOfCards.java) |
-| FirstNonRepeating | [Open](./Basic-Java-Programs/FirstNonRepeating.java) |
-| FrequencyNestedLoop | [Open](./Basic-Java-Programs/FrequencyNestedLoop.java) |
-| IllegalArgumentDemo | [Open](./Basic-Java-Programs/IllegalArgumentDemo.java) |
-| LowerCaseConvert | [Open](./Basic-Java-Programs/LowerCaseConvert.java) |
-| NullPointerDemo | [Open](./Basic-Java-Programs/NullPointerDemo.java) |
-| NumberFormatDemo | [Open](./Basic-Java-Programs/NumberFormatDemo.java) |
-| PalindromeCheck | [Open](./Basic-Java-Programs/PalindromeCheck.java) |
-| RockPaperScissors | [Open](./Basic-Java-Programs/RockPaperScissors.java) |
-| ShortestLongestWord | [Open](./Basic-Java-Programs/ShortestLongestWord.java) |
-| SplitWordsCompare | [Open](./Basic-Java-Programs/SplitWordsCompare.java) |
-| StringIndexDemo | [Open](./Basic-Java-Programs/StringIndexDemo.java) |
-| StringLengthWithoutLength | [Open](./Basic-Java-Programs/StringLengthWithoutLength.java) |
-| StudentGradeCard | [Open](./Basic-Java-Programs/StudentGradeCard.java) |
-| SubstringUsingCharAt | [Open](./Basic-Java-Programs/SubstringUsingCharAt.java) |
-| TrimUsingCharAt | [Open](./Basic-Java-Programs/TrimUsingCharAt.java) |
-| UniqueCharacters | [Open](./Basic-Java-Programs/UniqueCharacters.java) |
-| UpperCaseConvert | [Open](./Basic-Java-Programs/UpperCaseConvert.java) |
-| VotingEligibility | [Open](./Basic-Java-Programs/VotingEligibility.java) |
-| VowelConsonantCount | [Open](./Basic-Java-Programs/VowelConsonantCount.java) |
-| WordsWithLength | [Open](./Basic-Java-Programs/WordsWithLength.java) |
-
----
-
-### 🧠 Concepts Learned
-
-- Strings & Character Handling  
-- Comparison Methods (`equals`, `compareTo`)  
-- ASCII Character Processing  
-- Substring / Split / Trim / Case Convert  
-- Palindrome, Unique Characters, Vowel Count  
-- Basic exception handling demos  
-
----
-
----
-
-### **Day 7 – (23 Dec 2025)**  
-📌 *Revision & Consolidation Day*  
-✔ Revised **Loops, Strings, Arrays, Conditionals & Basic Programs**  
-✔ Practiced previously built Java files for better logic understanding  
-✔ No new files created — focus was on revision & improving speed  
-
-🧠 Topics Revisited:
-- If-Else Conditions  
-- Loops (for/while)  
-- Arrays (1D, 2D)  
-- String Handling  
-- Mathematical & Logical Programs  
-
----
+📂 **Folder reference:**  
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 
-### **Day 8 – Day 10 (24 Dec 2025 – 26 Dec 2025)**  
-📌 Worked on **Method based Java programs** located in `gcr-codebase/methods/` folder  
-📌 Learned method creation, parameters, return values & reusability  
-📌 Solved programs based on math, number systems, matrix, quadratic, trigonometry, OTP, unit conversions etc.
+━━━━━━━━━━━━━━━━━━━━━━━
 
----
+### 🗓️ Day 4 – 19 December 2025  
+**Focus:** Control Flow Statements
 
-### 📂 Day 8–10 Program Links
+- 🔁 Implemented programs using:
+  - 🔀 `if`, `if-else`, `else-if`
+  - 🔂 `switch-case`
+  - 🔄 Looping constructs (`for`, `while`, `do-while`)
 
-| Program Name | Link |
-|-------------|------|
-| BMITracker | [Open](./gcr-codebase/methods/BMITracker.java) |
-| CalendarProgram | [Open](./gcr-codebase/methods/CalendarProgram.java) |
-| ChocolatesDistribution | [Open](./gcr-codebase/methods/ChocolatesDistribution.java) |
-| CollinearPoints | [Open](./gcr-codebase/methods/CollinearPoints.java) |
-| FactorsOperations | [Open](./gcr-codebase/methods/FactorsOperations.java) |
-| FactorsUtility | [Open](./gcr-codebase/methods/FactorsUtility.java) |
-| FootballTeamHeight | [Open](./gcr-codebase/methods/FootballTeamHeight.java) |
-| FriendsComparison | [Open](./gcr-codebase/methods/FriendsComparison.java) |
-| Handshakes | [Open](./gcr-codebase/methods/Handshakes.java) |
-| LeapYear | [Open](./gcr-codebase/methods/LeapYear.java) |
-| LineEquation | [Open](./gcr-codebase/methods/LineEquation.java) |
-| MatrixAdvanced | [Open](./gcr-codebase/methods/MatrixAdvanced.java) |
-| MatrixOperations | [Open](./gcr-codebase/methods/MatrixOperations.java) |
-| NumberAnalysis | [Open](./gcr-codebase/methods/NumberAnalysis.java) |
-| NumberCheck | [Open](./gcr-codebase/methods/NumberCheck.java) |
-| NumberChecker | [Open](./gcr-codebase/methods/NumberChecker.java) |
-| NumberCheckerAdvanced | [Open](./gcr-codebase/methods/NumberCheckerAdvanced.java) |
-| NumberCheckerAdvanced2 | [Open](./gcr-codebase/methods/NumberCheckerAdvanced2.java) |
-| NumberCheckerPalindrome | [Open](./gcr-codebase/methods/NumberCheckerPalindrome.java) |
-| NumberCheckerSpecial | [Open](./gcr-codebase/methods/NumberCheckerSpecial.java) |
-| OTPGenerator | [Open](./gcr-codebase/methods/OTPGenerator.java) |
-| Quadratic | [Open](./gcr-codebase/methods/Quadratic.java) |
-| QuotientRemainder | [Open](./gcr-codebase/methods/QuotientRemainder.java) |
-| RandomNumbers | [Open](./gcr-codebase/methods/RandomNumbers.java) |
-| SimpleInterest | [Open](./gcr-codebase/methods/SimpleInterest.java) |
-| SmallestLargest | [Open](./gcr-codebase/methods/SmallestLargest.java) |
-| SpringSeason | [Open](./gcr-codebase/methods/SpringSeason.java) |
-| StudentScoreCard | [Open](./gcr-codebase/methods/StudentScoreCard.java) |
-| StudentVoteChecker | [Open](./gcr-codebase/methods/StudentVoteChecker.java) |
-| SumNaturalNumbers | [Open](./gcr-codebase/methods/SumNaturalNumbers.java) |
-| SumOfNaturalNumbers | [Open](./gcr-codebase/methods/SumOfNaturalNumbers.java) |
-| TriangularPark | [Open](./gcr-codebase/methods/TriangularPark.java) |
-| Trigonometry | [Open](./gcr-codebase/methods/Trigonometry.java) |
-| UnitConvertor | [Open](./gcr-codebase/methods/UnitConvertor.java) |
-| UnitConvertorAdvanced | [Open](./gcr-codebase/methods/UnitConvertorAdvanced.java) |
-| UnitConvertorLength | [Open](./gcr-codebase/methods/UnitConvertorLength.java) |
-| WindChill | [Open](./gcr-codebase/methods/WindChill.java) |
-| ZaraBonus | [Open](./gcr-codebase/methods/ZaraBonus.java) |
+📂 **Folder reference:**  
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
----
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 20 December 2025  
+**Focus:** Arrays in Core Java  
+
+- 📦 Implemented programs using arrays to store and process data efficiently  
+- 🧮 Solved problems like storing odd and even numbers in separate arrays and finding factors of a number  
+- 🔄 Practiced array initialization, traversal, and dynamic resizing using temporary arrays  
+- 🧠 Improved logic building through index management and real-world array use cases
+  
+📂 **Folder reference:**  
+👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 2 (STRINGS & LOGIC BUILDING)
+
+### 🗓️ Day 1 – 22 December 2025  
+**Focus:** Strings & Logic Building
+
+- 🔤 Solved multiple string-based problems  
+- 🔁 Practiced character traversal, comparison, and recursion  
+- 🧩 Applied frequency-based logic for string validation problems  
+- ⚠️ Understood and handled common runtime exceptions  
+- 🧠 Strengthened problem-solving approach for text manipulation
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 23 December 2025  
+**Focus:** Strings & Logic Building
+
+- 🔤 Practiced string problems (palindrome, anagram, traversal)  
+- 🧠 Applied frequency logic and recursion  
+- ⚠️ Handled common string-related runtime exceptions  
+- 🗳️ Solved scenario-based problems (Election Booth & Metro Fare Calculation)  
+- 🎤 Participated in student review  and explained solutions
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 24 December 2025  
+**Focus:** Methods & Logic Building
+
+- 🧩 Practiced method-based questions (parameters, return types)  
+- 🔁 Improved understanding of method calls and reusability  
+- 🧠 Strengthened logical thinking through modular coding  
+- ✍️ Solved problems using multiple methods
+  
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 25 December 2025  
+**Focus:** Strings and Functions
+
+- 🔤 Practiced string handling concepts
+- 🧩 Solved problems like vowel & consonant count and string reversal without built-in methods
+- 🔁 Implemented palindrome check, duplicate removal, substring count, case toggling, anagram check, string comparison etc
+- 🧠 Improved string traversal skills and understanding of methods with parameters & return values
+
+  
+ ━━━━━━━━━━━━━━━━━━━━━━━
+
+ ### 🗓️ Day 5 – 26 December 2025  
+ **Focus:** Control Flow, Loops & Built-in Methods (Scenario-Based)
+
+- 🚌 Solved **scenario-based problems** like *Bus Route Distance Tracker* using while-loops, condition checks, and cumulative logic  
+- 🎉 Implemented *Festival Lucky Draw* scenario using modulus operator, if-else conditions, loops, and input validation  
+- 🔁 Practiced looping for multiple users/entries with proper exit conditions  
+- 🧩 Worked on **built-in method–based questions** to understand direct method usage and cleaner logic  
+- 🧠 Strengthened understanding of real-world problem modeling using control flow and functions  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 3 (SCENARIO-BASED PROBLEMS & OOPS CONCEPTS)
+
+### 🗓️ Day 1 – 29 December 2025  
+**Focus:** Scenario-Based Problems & Logic Building
+
+- 🌍 Solved real-world scenario-based problems to strengthen logical thinking  
+- 💼 Implemented Employability Wage Computation use cases  
+- 📐 Practiced Line Comparison problems using object-oriented concepts  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 30 December 2025  
+**Focus:** Scenario-Based Problems & Logic Building
+
+- 🎲 Solved the Snake and Ladder game scenario using loops, conditionals, and randomization  
+- 🎯 Implemented game logic ensuring exact win conditions and move validation  
+- 🧩 Practiced introductory OOPS concepts through scenario-based problem solving
+
+ ━━━━━━━━━━━━━━━━━━━━━━━ 
+
+ ### 🗓️ Day 3 – 31 December 2025  
+**Focus:** Methods and Objects  
+
+- 🧱 Learned how classes and objects model real-world entities  
+- 🔧 Practiced creating and invoking methods with parameters and return values  
+- 🔁 Solved basic programs using objects and method calls to improve OOP understanding  
+- 🧠 Gained clarity on object state and behavior through hands-on questions  
+
+ ━━━━━━━━━━━━━━━━━━━━━━━
+ 
+ ### 🗓️ Day 4 – 1 January 2026  
+**Focus:** Constructors and Keywords  
+
+- 🏗️ Solved problems on constructors, including default and parameterized constructors  
+- 🔗 Practiced constructor chaining to understand object initialization flow  
+- 🧭 Worked with `this` keyword to differentiate instance variables and parameters  
+- ⚙️ Explored `static` members and understood their behavior across objects
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 2 January 2026  
+**Focus:** Classes, Objects, and Diagrams  
+
+- 🧱 Practiced designing **classes and objects** to model real-world entities  
+- 📐 Created **class–object diagrams** to visualize structure and relationships  
+- 🧩 Solved **scenario-based questions** by identifying attributes, methods, and object interactions  
+- 🔍 Improved understanding of object instantiation and collaboration within a system  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 6 – 3 January 2026  
+**Focus:** Inheritance  
+
+- 🌳 Solved problems based on **inheritance** (IS-A relationship)  
+- 🧬 Practiced using `extends` to reuse properties and methods from parent classes  
+- 🧩 Solved **two scenario-based questions** involving superclass–subclass modeling  
+- 🔁 Improved understanding of method reuse and hierarchy-based design
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 4 (OOPS SCENARIO-BASED PRACTICE)
+
+### 🗓️ Day 1 – 5 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Applied **abstraction, inheritance, encapsulation, and interfaces** in practical use cases  
+- 🔁 Strengthened understanding of **polymorphism** through dynamic method behavior  
+- 📌 Improved confidence in designing **structured and logic-driven Java programs**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 6 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Applied **abstraction, inheritance, encapsulation, and interfaces** in practical use cases  
+- 🔁 Strengthened understanding of **polymorphism** through dynamic method behavior  
+- 📌 Improved confidence in designing **structured and logic-driven Java programs**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+ ### 🗓️ Day 3 – 7 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world OOPS scenario-based problems** using Java  
+- 🧱 Implemented **CRUD-based system designs** with proper class structure  
+- 🔁 Practiced **polymorphism and interface-driven logic** in practical scenarios  
+- 📌 Improved clarity in writing **clean, modular, and maintainable Java code**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 8 January 2026  
+**Focus:** Linked List & Review Session
+
+- 🧩 Learned **Linked List concepts** and solved multiple related questions  
+- 🧱 Implemented **Linked List operations** using Java (insertion, deletion, traversal)  
+- 🔁 Solved a few **scenario-based problems** to apply data structures with OOPS  
+- 📌 Attended a **review meeting** to discuss progress, logic, and improvements
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 9 January 2026  
+**Focus:** OOPS + CRUD Applications
+
+- 🏥 Hospital Patient Management System using OOPS & CRUD  
+- 🚗 Vehicle Rental Application with interfaces and inheritance  
+- ✈️ Flight Booking System using arrays, lists, and string operations  
+- 📌 Applied Encapsulation, Abstraction, Inheritance, Polymorphism
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 5 (OOPS SCENARIO-BASED AND DSA PRACTICE)
+
+### 🗓️ Day 1 – 12 January 2026  
+**Focus:** OOPS Scenario-Based Programming
+
+- 🧩 Solved multiple **real-world, scenario-based OOPS problems** using Java  
+- 🧱 Implemented **abstraction, inheritance, encapsulation, and interfaces** in practical designs  
+- 🔁 Enhanced understanding of **polymorphism** through dynamic method execution  
+- 📌 Improved confidence in building **well-structured and logically sound Java applications**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 13 January 2026  
+**Focus:** Scenario-Based Programming + Data Structures
+
+- 🧩 Solved additional **real-world, scenario-based problems** using Java  
+- 📚 Implemented **Stack and Queue** to handle practical use cases  
+- 🗂️ Used **HashMap** for efficient data storage and retrieval  
+- 📌 Strengthened problem-solving skills by combining **OOPS with data structures**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 14 January 2026  
+**Focus:** Scenario-Based Programming + Stack Practice
+
+- ✈️ Solved **real-world scenario-based problems** such as **Flight Booking System** using Java  
+- 📚 Practiced and solved **more Stack-based problems** to strengthen understanding  
+- 🧠 Improved logical thinking by applying **data structures to practical scenarios**  
+- 🚀 Enhanced confidence in handling **problem statements with real-life context**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 15 January 2026  
+**Focus:** Sorting Algorithms + Real-World Applications
+
+- 🔢 Studied and implemented **sorting algorithms** using Java  
+- 🏢 Applied **sorting techniques to real-world scenarios** for better understanding  
+- 📒 Started working on the **Address Book problem** and designed its basic structure  
+- 🚀 Improved confidence in solving **data-structure-driven scenario problems**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 16 January 2026  
+**Focus:** Algorithm Runtime Analysis & Big-O Notation  
+📊 Understood runtime analysis with time & space complexity  
+📈 Learned Big-O including best, worst & average cases  
+⚙️ Explored practical Java code optimization guidelines  
+🚀 Improved analytical thinking for performance-focused coding  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 6 – 17 January 2026  
+**Focus:**  Algorithm Analysis – Assignment Practice  
+
+🧠 Implemented concepts of runtime analysis through coding questions  
+📊 Solved time & space complexity–based assignment problems  
+📈 Applied Big-O (best, worst & average cases) in real questions  
+🚀 Strengthened problem-solving with performance-focused thinking  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 6 (DSA SCENARIO BASED AND COLLECTIONS PRACTICE)
+
+### 🗓️ Day 1 – 19 January 2026  
+**Focus:**  Scenario-Based DSA Problem Solving  
+🌐 Solved *BrowserBuddy* using Doubly Linked List + Stack for tab history & restore  
+📦 Implemented *ParcelTracker* with Singly Linked List for delivery stage tracking  
+📝 Built *ExamProctor* using Stack + HashMap with functions for evaluation logic  
+🚀 Strengthened confidence in real-world, scenario-driven DSA applications  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 20 January 2026  
+**Focus:** OOP Polymorphism, Abstraction & Generics  
+
+🏦 Solved *BankAccount Hierarchy* using abstract classes, immutability & polymorphic fee calculation  
+👨‍💼 Implemented *Employee Role Polymorphism* with optimized bonus logic and caching  
+🧩 Studied Java Generics for type safety, reusability & performance  
+🎤 Participated in student review  and explained solutions
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 21 January 2026  
+**Focus:** Java Generics – Conceptual & Problem Practice  
+📘 Studied core Java Generics concepts for type safety  
+🧪 Practiced Generics-based questions and assignments  
+⚙️ Worked with generic classes, methods & bounds  
+🚀 Improved confidence in applying Generics to problem-solving  
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 22 January 2026  
+**Focus:** Java Data Structures – Queue, HashMap & Singly Linked List  
+📘 Implemented SmartCheckout using Queue and HashMap for billing and inventory management  
+🧪 Practiced ParcelTracker using Singly Linked List for delivery stage tracking  
+⚙️ Applied safe null handling and dynamic updates in real-world data flow  
+🚀 Strengthened problem-solving skills through practical data structure scenarios
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 5 – 23 January 2026  
+**Focus:** Java I/O Streams – File Handling & Data Flow  
+📘 Studied core Java I/O Streams including byte and character streams  
+🧪 Practiced questions on reading from and writing to files  
+⚙️ Worked with File, FileInputStream, FileOutputStream, and Buffered streams  
+🚀 Improved understanding of efficient data handling and stream-based operations
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 5 (JAVA COLLECTIONS AND IO PRACTICE)
+
+### 🗓️ Day 1 – 27 January 2026  
+**Focus:** Java Exception Handling – Concepts & Practice  
+📘 Studied checked and unchecked exceptions with try-catch-finally  
+🧪 Practiced and submitted exception handling based questions  
+⚙️ Worked with custom exceptions, throw, and throws keywords  
+🚀 Improved confidence in writing robust and fault-tolerant Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 28 January 2026  
+**Focus:** Java Regex & JUnit – Pattern Matching and Testing  
+📘 Studied regular expressions and JUnit fundamentals  
+🧪 Solved a scenario-based problems named *Lexical Twist* and *Flip Key*  
+⚙️ Applied regex for validation and JUnit for test case verification  
+🚀 Improved confidence in writing testable and reliable Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 29 January 2026  
+**Focus:** Java Annotations & Reflection – Metadata and Runtime Processing  
+📘 Studied custom annotations and Java Reflection API  
+🧪 Solved a scenario-based problem named *FutureLogistics*  
+⚙️ Applied reflection to inspect annotations and invoke methods dynamically  
+🚀 Improved understanding of runtime behavior and advanced Java features
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 4 – 30 January 2026  
+**Focus:** CSV Data Handling – File Processing and Parsing  
+📘 Studied reading and writing CSV data using Java I/O  
+🧪 Solved problems related to parsing and processing CSV files  
+⚙️ Implemented data extraction, validation, and storage logic  
+🚀 Improved confidence in handling structured file-based data
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 6 (JAVA 8 FEATURES PRACTICE)
+### 🗓️ Day 1 – 2 February 2026  
+**Focus:** Java Lambda Expressions – Functional Programming Basics  
+📘 Studied and applied lambda expressions in Java  
+🧪 Solved a scenario-based problem named *AEROVIRGIL*  
+⚙️ Implemented functional interfaces and concise logic using lambdas  
+🚀 Improved confidence in writing clean and expressive Java code
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 2 – 3 February 2026  
+**Focus:** JSON File Handling – Advanced Parsing and Processing  
+📘 Studied and submitted extended questions on JSON file handling  
+🧪 Solved a scenario-based problem named *Stream Buzz*  
+⚙️ Implemented JSON reading, writing, and data mapping logic  
+🚀 Improved confidence in handling structured JSON data in Java
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🗓️ Day 3 – 4 February 2026  
+**Focus:** Java Stream API – Functional Data Processing  
+📘 Studied core Stream API concepts including map, filter, and reduce  
+🧪 Solved problems using streams on collections  
+⚙️ Applied method references and stream pipelines effectively  
+🚀 Improved confidence in writing concise and efficient stream-based code
+`
 
 
-### 🧠 Concepts From Day 8–10
+## 🧭 How to Navigate
 
-- Methods & Reusability  
-- Parameters & Return Type  
-- Mathematical Method Programs  
-- Number & Digit Operations  
-- Matrix & Trigonometry Logic  
-- Banking, Result, Vote & Card-based conditions  
-- OTP & Random Number generation  
-- Unit Conversion using Functions  
+- 🔀 Use the **branch selector** on GitHub to switch to `core-java-practice`
+- 📁 Each topic folder contains Java programs focused on concept clarity
+- 🔄 Repository is updated **day-wise** as training progresses
 
----
+━━━━━━━━━━━━━━━━━━━━━━━
 
-### ⭐ If you like this repo, don't forget to star it!
+## 🚀 Upcoming Topics
 
+- 🧱 Object-Oriented Programming (OOP)
+- 📦 Java Collections Framework
+- ⚠️ Exception Handling
+- 🧠 Advanced Java problem solving
 
+━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ *This repository will be continuously updated throughout the BridgeLabz training journey.*
 
