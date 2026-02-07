@@ -46,7 +46,7 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 - 📈 Improved logical thinking and problem-solving skills
 
 - 📂 **Folder reference:**  
-  👉 [Click here](https://github.com/Priyanka33591/BridgeLabz-Training/tree/core-java-practice?tab=readme-ov-file)
+  👉 [Click here](https://github.com/Kartik6123/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
@@ -469,4 +469,3 @@ The training focuses on building **strong Core Java fundamentals**, improving **
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ⭐ *This repository will be continuously updated throughout the BridgeLabz training journey.*
-
