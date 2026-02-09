@@ -1,5 +1,3 @@
-package multi-threading;
-
 import java.time.LocalDateTime;
 
 class BankAccount {
