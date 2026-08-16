@@ -1,5 +1,6 @@
 package com.contacts.controller;
 
+import com.contacts.dto.request.ContactPatchRequest;
 import com.contacts.dto.request.ContactRequest;
 import com.contacts.dto.response.ContactResponse;
 import com.contacts.service.ContactService;
@@ -24,12 +25,9 @@ public class ContactController {
     public ResponseEntity<ContactResponse> createContact(
             @Valid @RequestBody ContactRequest request) {
 
-        ContactResponse response =
-                contactService.createContact(request);
-
         return ResponseEntity
                 .status(HttpStatus.CREATED)
-                .body(response);
+                .body(contactService.createContact(request));
     }
 
     @GetMapping
@@ -56,6 +54,16 @@ public class ContactController {
 
         return ResponseEntity.ok(
                 contactService.updateContact(id, request)
+        );
+    }
+
+    @PatchMapping("/{id}")
+    public ResponseEntity<ContactResponse> patchContact(
+            @PathVariable Long id,
+            @RequestBody ContactPatchRequest request) {
+
+        return ResponseEntity.ok(
+                contactService.patchContact(id, request)
         );
     }
 

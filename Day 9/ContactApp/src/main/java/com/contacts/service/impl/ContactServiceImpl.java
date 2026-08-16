@@ -1,5 +1,6 @@
 package com.contacts.service.impl;
 
+import com.contacts.dto.request.ContactPatchRequest;
 import com.contacts.dto.request.ContactRequest;
 import com.contacts.dto.response.ContactResponse;
 import com.contacts.entity.Contact;
@@ -99,6 +100,55 @@ public class ContactServiceImpl implements ContactService {
         contact.setEmail(request.email());
         contact.setPhoneNumber(request.phoneNumber());
         contact.setAddress(request.address());
+        contact.setUpdatedAt(LocalDateTime.now());
+
+        Contact updatedContact = contactRepository.save(contact);
+
+        return contactMapper.toResponse(updatedContact);
+    }
+
+    @Override
+    public ContactResponse patchContact(
+            Long id,
+            ContactPatchRequest request) {
+
+        Contact contact = contactRepository.findById(id)
+                .orElseThrow(() ->
+                        new ContactNotFoundException(
+                                "Contact not found with id: " + id
+                        )
+                );
+
+        if (request.firstName() != null) {
+            contact.setFirstName(request.firstName());
+        }
+
+        if (request.lastName() != null) {
+            contact.setLastName(request.lastName());
+        }
+
+        if (request.email() != null) {
+
+            if (!contact.getEmail().equalsIgnoreCase(request.email())
+                    && contactRepository.existsByEmail(request.email())) {
+
+                throw new DuplicateContactException(
+                        "Contact already exists with email: "
+                                + request.email()
+                );
+            }
+
+            contact.setEmail(request.email());
+        }
+
+        if (request.phoneNumber() != null) {
+            contact.setPhoneNumber(request.phoneNumber());
+        }
+
+        if (request.address() != null) {
+            contact.setAddress(request.address());
+        }
+
         contact.setUpdatedAt(LocalDateTime.now());
 
         Contact updatedContact = contactRepository.save(contact);
